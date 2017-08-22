@@ -7,8 +7,8 @@
     <ProjectGuid>{20952015-A7DB-483F-B0E1-8440B5053849}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Umbraco.Storage.S3</RootNamespace>
-    <AssemblyName>Umbraco.Storage.S3</AssemblyName>
+    <RootNamespace>NZME.Umbraco.Storage.S3</RootNamespace>
+    <AssemblyName>NZME.Umbraco.Storage.S3</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
